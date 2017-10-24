@@ -499,7 +499,7 @@ The next step is to create a sample application that connects to your NodeRed fl
 
 1. Click the Deploy to BlueMix button below to provision the web client application.
 
-	[![Deploy to BlueMix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/jdcalus/STSA-WCS-WebProxy.git)
+	[![Deploy to BlueMix](https://bluemix.net/deploy/button.png)](https://hcsc.bluemix.net/deploy?repository=https://github.com/jdcalus/STSA-WCS-WebProxy.git)
 
 	You will see a screen like the following:
 
